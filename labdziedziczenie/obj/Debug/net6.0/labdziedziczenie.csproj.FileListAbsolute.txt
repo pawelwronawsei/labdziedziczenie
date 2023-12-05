@@ -1,0 +1,15 @@
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\bin\Debug\net6.0\labdziedziczenie.exe
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\bin\Debug\net6.0\labdziedziczenie.deps.json
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\bin\Debug\net6.0\labdziedziczenie.runtimeconfig.json
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\bin\Debug\net6.0\labdziedziczenie.dll
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\bin\Debug\net6.0\labdziedziczenie.pdb
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\obj\Debug\net6.0\labdziedziczenie.csproj.AssemblyReference.cache
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\obj\Debug\net6.0\labdziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\obj\Debug\net6.0\labdziedziczenie.AssemblyInfoInputs.cache
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\obj\Debug\net6.0\labdziedziczenie.AssemblyInfo.cs
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\obj\Debug\net6.0\labdziedziczenie.csproj.CoreCompileInputs.cache
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\obj\Debug\net6.0\labdziedziczenie.dll
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\obj\Debug\net6.0\refint\labdziedziczenie.dll
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\obj\Debug\net6.0\labdziedziczenie.pdb
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\obj\Debug\net6.0\labdziedziczenie.genruntimeconfig.cache
+D:\Users\pawel.wrona\source\repos\labdziedziczenie\labdziedziczenie\obj\Debug\net6.0\ref\labdziedziczenie.dll
